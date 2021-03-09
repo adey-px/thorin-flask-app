@@ -1,0 +1,5 @@
+/* Target the img tags that are direct children of col-md-5 to avoid effect on other images*/
+.col-md-5 img {
+    width: 100%;
+}
+/* 100% width ensures that it fits the content */
